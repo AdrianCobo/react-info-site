@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Navbar() {
+export default function Main() {
     return (
         <main>
             <h1 className="main--title">Fun facts about React</h1>
